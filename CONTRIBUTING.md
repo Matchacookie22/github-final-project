@@ -1,1 +1,1 @@
-Semua kontribusi, laporan bug, perbaikan bug, perbaikan dokumentasi, peningkatan, dan ide diterima dengan baik.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements and ideas are welcome.
